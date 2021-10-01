@@ -66,7 +66,7 @@ if __name__ == "__main__":
     gui = Tk() 
   
     # set the background colour of GUI window 
-    gui.configure(background="light green") 
+    gui.configure(background = "light green") 
   
     # set the title of GUI window 
     gui.title("Simple Calculator") 
